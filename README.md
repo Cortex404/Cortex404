@@ -1,3 +1,3 @@
 - 👋 Hi I’m @Cortex404
-- 👀 I’m interested in ... programming in many languages such as lua,py,c#,c++,js,lua
+- 👀 I’m interested in ... programming in many languages such as lua,py,c#,c++,js,
 - 📫 How to reach me ... You can reach me on discord at cortex#6969
