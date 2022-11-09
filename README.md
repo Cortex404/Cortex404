@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Cortex</h1>
 - 🔭 I’m currently working on **😿**
 
-- 🌱 I’m currently learning **Javascript😸**
+- 🌱 I’m currently learning: **Javascript😸**
 
-- 👯 I’m looking to collaborate on **Nerdbob generator project💪**
+- 👯 I’m looking to collaborate on: **Nerdbob generator project💪**
 
-- 💬 Ask me about **🐈**
+- 💬 Ask me about: **🐈**
 
-- 📫 How to reach me **Cortex#6969 😹**
+- 📫 How to reach me: **Cortex#6969 😹**
 
-- ⚡ Fun fact **I like to spam concorde in my free time**
+- ⚡ Fun fact: **I like to spam concorde in my free time**
 
 <h3 align="left"></h3>
 <p align="left">
