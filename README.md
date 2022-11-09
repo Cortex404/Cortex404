@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Cortex404</h1>
 <h3 align="center">Welcome to my profile</h3>
 
+(img align="right" alt="Coding" width="400" src="https://tenor.com/view/user8080800-gif-22366359")
+
 - 🔭 I’m currently working on: **Nothing😿**
 
 - 🌱 I’m currently learning: **Javascript😸**
