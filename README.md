@@ -1,6 +1,6 @@
+[![MasterHead](https://tenor.com/view/sogga-soggaglass-soggadeath-gif-21364852...)]()
 <h1 align="center">Hi 👋, I'm Cortex404</h1>
 <h3 align="center">Welcome to my profile</h3>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/sogga-soggaglass-soggadeath-gif-21364852">
 
 - 🔭 I’m currently working on: **Nothing😿**
 
